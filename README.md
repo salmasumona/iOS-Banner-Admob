@@ -9,6 +9,7 @@
    Value - ca-app-pub-3940256099942544~1458002511(Valid Admob App Id)(string).
 4. Key GADIsAdManagerApp
    Value - Yes (Bool). 
+   
 To get app id go to https://apps.admob.com/v2/home -> Apps -> View All Apps.
 
 # https://developers.google.com/admob/ios/quick-start
